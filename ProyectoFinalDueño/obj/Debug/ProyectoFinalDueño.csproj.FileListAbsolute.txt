@@ -1,0 +1,28 @@
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\bin\Debug\ProyectoFinalDueño.exe.config
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\bin\Debug\ProyectoFinalDueño.exe
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\bin\Debug\ProyectoFinalDueño.pdb
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaMenu.resources
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaGraficaFrutas.resources
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.Properties.Resources.resources
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.exe
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.pdb
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaGraficaAguas.resources
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaGraficaElotes.resources
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.Login.resources
+C:\Users\admin\Documents\Tareas\6to semestre\Ing de Software\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.csprojResolveAssemblyReference.cache
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\bin\Debug\ProyectoFinalDueño.exe.config
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\bin\Debug\ProyectoFinalDueño.exe
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\bin\Debug\ProyectoFinalDueño.pdb
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.csprojAssemblyReference.cache
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaMenu.resources
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaGraficaAguas.resources
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaGraficaElotes.resources
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.FormaGraficaFrutas.resources
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.Login.resources
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.Properties.Resources.resources
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.csproj.GenerateResource.cache
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.exe
+C:\Users\Sergi\OneDrive\Documentos\6TO Semestre\Vela\ProyectoFinalDueño\ProyectoFinalDueño\obj\Debug\ProyectoFinalDueño.pdb
